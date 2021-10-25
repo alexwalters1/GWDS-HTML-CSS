@@ -33,3 +33,22 @@ h2 {
     text-align: left;
 }
 
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+li {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fave {
+    color: orangered;
+}
+
+
