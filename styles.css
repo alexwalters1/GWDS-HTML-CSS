@@ -25,3 +25,11 @@ h1 {
 h2 {
     color: black;
 }
+
+.special {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
+}
+
